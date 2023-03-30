@@ -1,7 +1,7 @@
 git log –graph
 
-git clone
+git clone - rjgbz
 
-git pull
+git pull - 
 
 git push
